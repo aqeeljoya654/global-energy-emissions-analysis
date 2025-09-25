@@ -21,5 +21,4 @@ Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)
 2. Install required libraries (`pip install -r requirements.txt`)  
 3. Open the notebook in Jupyter/Anaconda and run all cells  
 
----  
-📌 Developed as part of independent learning to strengthen skills in **Data Science, AI, and Analytics**.  
+Developed as part of independent learning to strengthen skills in **Data Science, AI, and Analytics**.  
